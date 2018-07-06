@@ -1,0 +1,1 @@
+# mChat Rooms add-on

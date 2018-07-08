@@ -50,6 +50,9 @@ $lang = array_merge($lang, [
 	'MCHATROOMS_MAX_INVITES_EXPLAIN'		=> 'Het aantal uitnodigingen dat een gebruiker kan verzenden binnen de bovenstaande vervaltijd.<br><em>Stel in op 0 om onbeperkte uitnodigingen toe te staan. Standaard is 10 uitnodigingen.</em>',
 	'MCHATROOMS_INVITES'					=> 'uitnodigingen',
 
+	'MCHATROOMS_POST_NOTIFICATIONS'				=> 'Room voor nieuw bericht over onderwerpen, plaatsen, citeren en bewerken',
+	'MCHATROOMS_LOGIN_NOTIFICATIONS'			=> 'Room voor nieuwe aanmelding meldingen',
+
 	'MCHATROOMS_PRUNE_SKIP_LOBBY'				=> 'Sluit lobby uit voor bericht opschoning',
 	'MCHATROOMS_PRUNE_SKIP_LOBBY_EXPLAIN'		=> 'Als dit is ingesteld op Ja worden berichten in de lobby <strong>niet opgeschoond</strong>.',
 	'MCHATROOMS_PRUNE_SKIP_PUBLIC'				=> 'Sluit openbare rooms uit voor opschoning',
